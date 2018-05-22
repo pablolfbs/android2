@@ -60,14 +60,21 @@ public class MainActivity extends AppCompatActivity {
 
     public void verificar(View view) {
 
-        File arquivo = new File("arquivo");
+//        File arquivo = new File("arquivo");
+//
+//        AlertDialog alertDialog = new AlertDialog.Builder(this).create();
+//        alertDialog.setTitle("MENSAGEM");
+//        try {
+//            alertDialog.setMessage(arquivo.getCanonicalPath().toString());
+//        } catch (Exception e) {
+//            alertDialog.setMessage(e.toString());
+//        }
+//        alertDialog.show();
 
-        AlertDialog alertDialog = new AlertDialog.Builder(this).create();
-        alertDialog.setTitle("MENSAGEM");
-        alertDialog.setMessage(arquivo.getAbsoluteFile().toString());
-        alertDialog.show();
+        // File arquivo = new File("pasta");
+        // arquivo.mkdir();
 
-        // this.deleteFile("arquivo");
+        this.deleteFile("arquivo");
 
         // File dir = this.getFilesDir();
 
