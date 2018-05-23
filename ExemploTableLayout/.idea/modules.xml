@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExemploTableLayout.iml" filepath="$PROJECT_DIR$/ExemploTableLayout.iml" />
+      <module fileurl="file://C:\Users\36115142016.2n\AndroidStudioProjects\ExemploTableLayout\ExemploTableLayout.iml" filepath="C:\Users\36115142016.2n\AndroidStudioProjects\ExemploTableLayout\ExemploTableLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\36115142016.2n\AndroidStudioProjects\ExemploTableLayout\app\app.iml" filepath="C:\Users\36115142016.2n\AndroidStudioProjects\ExemploTableLayout\app\app.iml" />
     </modules>
   </component>
 </project>
